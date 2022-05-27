@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aashutosh402
 - 👀 I’m interested in web
-- 🌱 I’m currently learning web developing
-- 💞️ I’m looking to collaborate on 
+- 🌱 I’m currently learning reactjs developement
+- 💞️ I’m looking to collaborate
 - 📫 How to reach me email:chandrawanshiaashutosh@gmail.com
 
 <!---

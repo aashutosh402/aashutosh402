@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning reactjs developement
 - 💞️ I’m looking to collaborate
 - 📫 How to reach me email:chandrawanshiaashutosh@gmail.com
+- this is new commit
 
 <!---
 aashutosh402/aashutosh402 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
